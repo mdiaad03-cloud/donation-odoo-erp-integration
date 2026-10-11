@@ -1,6 +1,7 @@
-﻿node_modules/
-.env
-npm-debug.log
-yarn-error.log
-.DS_Store
-coverage/
+﻿## .NET and Visual Studio ignore
+bin/
+obj/
+.vs/
+*.user
+*.suo
+appsettings.Development.json
